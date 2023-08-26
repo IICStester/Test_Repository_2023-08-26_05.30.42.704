@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "5aWGnWUNr1NiMB8uahOhwJ",
+    "name" : "Project_With_Dependencies_PullByCommitHash",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2023-08-26T05:31:02.774Z",
+  "objectRefs" : [ ]
+}
